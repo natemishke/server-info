@@ -14,4 +14,4 @@ This is a fivem server resource to do /serverinfo and get the info for Tethered 
  # how to change what the command outputs (says in server)
  1. Find where it says msg("Discord: https://discord.gg/FfCeyKS")
     msg("Website: https://johnsonchristian10.wixsite.com/mysite/")
- 2. Delete Everything inside the quotation marks and put whatever you want inside of their
+ 2. Delete Everything inside the quotation marks and put whatever you want inside of there
