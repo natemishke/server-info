@@ -1,7 +1,7 @@
 -- This function is used to register a command for the chat. 
 -- When this is exectuted, it will execute a function, doing the msg function to the client
 RegisterCommand("discord", function()
-    print("Heres our discord:" )
+    msg("Heres our discord:" )
 end, false)
 
 -- We declare this 'msg' function on the bottom due to better practices.
