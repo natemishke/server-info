@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-games { 'gta5' }
+games {'gta5'}
 
 author 'Dasdawg428'
 description 'Rules command for tethered optic'
