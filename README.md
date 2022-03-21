@@ -1,5 +1,5 @@
 # server-info
-This is a fivem server resource to do /serverinfo and get the info for Tethered Optic's server
+This is a fivem server resource to do /discord and get the info for Texas State Roleplay's server
  
  # How to install/use this resource
  1. Click clone or download
