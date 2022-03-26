@@ -4,7 +4,7 @@ This is a fivem server resource to do /discord and get the info for Texas State 
  # How to install/use this resource
  1. Click clone or download
  2. Drag and drop the folder that says server-info
- 3. open the server.cfg and put start server-info
+ 3. open the server.cfg and put start/ensure server-info
  4. Restart your server (or the resource) and type /discord
  
  # how to change the color
