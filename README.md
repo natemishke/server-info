@@ -15,3 +15,6 @@ This is a fivem server resource to do /discord and get the info for Texas State 
  1. Find where it says msg("Discord: https://discord.gg/FfCeyKS")
     msg("Website: https://johnsonchristian10.wixsite.com/mysite/")
  2. Delete Everything inside the quotation marks and put whatever you want inside of there
+
+
+IMPORTANT: This resource does NOT work, currently, with any other chat resource besides the base fivem chat resource. 
