@@ -1,4 +1,4 @@
--- Register new command /help
+-- Register new command /help changed over to infinite loop (aka the line where it says Citzen.CreateThread(function() while true do) with a timer of every 5 seconds
 Citizen.CreateThread(function()
     while true do
         msg("Discord: https://discord.gg/qPdaxJ9DhZ")
